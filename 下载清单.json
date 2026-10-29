@@ -1,0 +1,371 @@
+{
+  "title": "重返未来：1999 官方表情包",
+  "pack_id": "reverse-1999-official-stickers",
+  "pack_version": "1.0.0",
+  "format": "AstrBot meme pack protocol v0.3 (schema_version 1)",
+  "source": "https://res1999.huijiwiki.com/wiki/官方多媒体/表情包",
+  "generated_at": "2026-10-29 20:00:17",
+  "categoryCount": 51,
+  "imageCount": 696,
+  "posterCount": 52,
+  "packBytes": 61009497,
+  "series": [
+    {
+      "category": "qiaoxiang-xinling",
+      "series": "敲响心灵",
+      "count": 8,
+      "gif": 0,
+      "bytes": 149628
+    },
+    {
+      "category": "gongce-shangxian",
+      "series": "公测上线",
+      "count": 16,
+      "gif": 0,
+      "bytes": 232554
+    },
+    {
+      "category": "molupangka",
+      "series": "摩卢旁卡",
+      "count": 16,
+      "gif": 0,
+      "bytes": 281400
+    },
+    {
+      "category": "dongxue-qiutu",
+      "series": "洞穴囚徒",
+      "count": 16,
+      "gif": 0,
+      "bytes": 359688
+    },
+    {
+      "category": "yilu-fafafa",
+      "series": "一路发发发",
+      "count": 8,
+      "gif": 0,
+      "bytes": 158399
+    },
+    {
+      "category": "wululu",
+      "series": "乌卢鲁",
+      "count": 16,
+      "gif": 0,
+      "bytes": 319848
+    },
+    {
+      "category": "shuori-shouji",
+      "series": "朔日手记",
+      "count": 16,
+      "gif": 0,
+      "bytes": 280928
+    },
+    {
+      "category": "chunjie-hesui",
+      "series": "春节贺岁",
+      "count": 8,
+      "gif": 0,
+      "bytes": 150893
+    },
+    {
+      "category": "xingguang-canlan",
+      "series": "星光灿烂",
+      "count": 16,
+      "gif": 0,
+      "bytes": 308187
+    },
+    {
+      "category": "laiyashiji",
+      "series": "来亚什基",
+      "count": 16,
+      "gif": 0,
+      "bytes": 356762
+    },
+    {
+      "category": "gudu-zhige",
+      "series": "孤独之歌",
+      "count": 16,
+      "gif": 0,
+      "bytes": 367678
+    },
+    {
+      "category": "youchang-xiari",
+      "series": "悠长夏日",
+      "count": 8,
+      "gif": 0,
+      "bytes": 154295
+    },
+    {
+      "category": "mingri-zhicheng",
+      "series": "明日之城",
+      "count": 16,
+      "gif": 0,
+      "bytes": 292833
+    },
+    {
+      "category": "77hao-wangshi",
+      "series": "77号往事",
+      "count": 16,
+      "gif": 0,
+      "bytes": 320205
+    },
+    {
+      "category": "youyu-redai",
+      "series": "忧郁热带",
+      "count": 16,
+      "gif": 0,
+      "bytes": 331173
+    },
+    {
+      "category": "dongqu-liming",
+      "series": "东区黎明",
+      "count": 16,
+      "gif": 0,
+      "bytes": 329297
+    },
+    {
+      "category": "xiangzhong-yundonghui",
+      "series": "箱中运动会",
+      "count": 8,
+      "gif": 0,
+      "bytes": 145758
+    },
+    {
+      "category": "tuzhong-liuying",
+      "series": "途中留影",
+      "count": 8,
+      "gif": 0,
+      "bytes": 158268
+    },
+    {
+      "category": "diqiu-zhongye",
+      "series": "地球终夜",
+      "count": 16,
+      "gif": 0,
+      "bytes": 351884
+    },
+    {
+      "category": "luoxue-qianye",
+      "series": "落雪前夜",
+      "count": 8,
+      "gif": 0,
+      "bytes": 157111
+    },
+    {
+      "category": "xiying-chunzhi",
+      "series": "喜迎春至",
+      "count": 8,
+      "gif": 0,
+      "bytes": 158922
+    },
+    {
+      "category": "tangrenjie-yinghua",
+      "series": "唐人街影话",
+      "count": 32,
+      "gif": 16,
+      "bytes": 2973443
+    },
+    {
+      "category": "wan1999-xianglipu-rensheng",
+      "series": "玩1999享厘普人生",
+      "count": 16,
+      "gif": 0,
+      "bytes": 274761
+    },
+    {
+      "category": "fengdian-wenming",
+      "series": "疯癫文明",
+      "count": 16,
+      "gif": 0,
+      "bytes": 377111
+    },
+    {
+      "category": "yuzhou-zuqu",
+      "series": "宇宙组曲",
+      "count": 16,
+      "gif": 0,
+      "bytes": 403421
+    },
+    {
+      "category": "fuleyuan",
+      "series": "复乐园",
+      "count": 16,
+      "gif": 0,
+      "bytes": 423445
+    },
+    {
+      "category": "xiangzhong-xuejing",
+      "series": "箱中雪景",
+      "count": 8,
+      "gif": 0,
+      "bytes": 148182
+    },
+    {
+      "category": "xiangzhong-jiamian",
+      "series": "箱中假面",
+      "count": 16,
+      "gif": 0,
+      "bytes": 387698
+    },
+    {
+      "category": "manman-changlu",
+      "series": "漫漫长路",
+      "count": 16,
+      "gif": 0,
+      "bytes": 400664
+    },
+    {
+      "category": "xiangzhong-manyou",
+      "series": "箱中漫游",
+      "count": 8,
+      "gif": 0,
+      "bytes": 172001
+    },
+    {
+      "category": "xinyang-zhiyue",
+      "series": "信仰之跃",
+      "count": 16,
+      "gif": 0,
+      "bytes": 394715
+    },
+    {
+      "category": "changye-mingdi",
+      "series": "长夜鸣笛",
+      "count": 16,
+      "gif": 0,
+      "bytes": 444916
+    },
+    {
+      "category": "qianliu-de-shengyan",
+      "series": "迁流的盛宴",
+      "count": 16,
+      "gif": 0,
+      "bytes": 403010
+    },
+    {
+      "category": "jieyuda-de-yansi",
+      "series": "解与答的研思",
+      "count": 8,
+      "gif": 0,
+      "bytes": 153647
+    },
+    {
+      "category": "xiangzhong-qiyu",
+      "series": "箱中栖语",
+      "count": 8,
+      "gif": 0,
+      "bytes": 209875
+    },
+    {
+      "category": "yuanzhengji",
+      "series": "远征记",
+      "count": 16,
+      "gif": 0,
+      "bytes": 434043
+    },
+    {
+      "category": "sanxian-guohai",
+      "series": "三仙过海",
+      "count": 8,
+      "gif": 0,
+      "bytes": 184426
+    },
+    {
+      "category": "bulaochun",
+      "series": "不老春",
+      "count": 16,
+      "gif": 0,
+      "bytes": 351116
+    },
+    {
+      "category": "xiangzhong-suinnuan",
+      "series": "箱中岁暖",
+      "count": 8,
+      "gif": 0,
+      "bytes": 160779
+    },
+    {
+      "category": "lvsongshi-she",
+      "series": "绿松石蛇",
+      "count": 16,
+      "gif": 0,
+      "bytes": 403229
+    },
+    {
+      "category": "renmen-hequ",
+      "series": "人们何去",
+      "count": 8,
+      "gif": 0,
+      "bytes": 215002
+    },
+    {
+      "category": "xiangzhong-douqu",
+      "series": "箱中逗趣",
+      "count": 8,
+      "gif": 0,
+      "bytes": 929096
+    },
+    {
+      "category": "xiangzhong-dianyingjie",
+      "series": "箱中电影节",
+      "count": 8,
+      "gif": 0,
+      "bytes": 160898
+    },
+    {
+      "category": "tazhe-beiai",
+      "series": "他者悲哀",
+      "count": 16,
+      "gif": 0,
+      "bytes": 407421
+    },
+    {
+      "category": "ciyuan-qilv",
+      "series": "次元奇旅",
+      "count": 8,
+      "gif": 0,
+      "bytes": 150517
+    },
+    {
+      "category": "shiji-chidu",
+      "series": "世纪尺度",
+      "count": 16,
+      "gif": 0,
+      "bytes": 449819
+    },
+    {
+      "category": "xiangzhong-fengfengbu",
+      "series": "箱中缝缝补",
+      "count": 32,
+      "gif": 0,
+      "bytes": 488533
+    },
+    {
+      "category": "juhe-langchao",
+      "series": "聚合浪潮",
+      "count": 8,
+      "gif": 0,
+      "bytes": 223480
+    },
+    {
+      "category": "duicebu",
+      "series": "对策部",
+      "count": 16,
+      "gif": 0,
+      "bytes": 494020
+    },
+    {
+      "category": "liujin-zhihai",
+      "series": "流金之海",
+      "count": 16,
+      "gif": 0,
+      "bytes": 473499
+    },
+    {
+      "category": "qimiao-9bao",
+      "series": "奇妙9堡",
+      "count": 16,
+      "gif": 0,
+      "bytes": 358741
+    }
+  ]
+}

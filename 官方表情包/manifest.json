@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "id": "reverse-1999-official-stickers",
+  "name": "重返未来：1999 官方表情包",
+  "version": "1.0.0",
+  "description": "《重返未来：1999》官方发布的全套表情包，共 51 个系列、696 张表情图，覆盖 2023 年公测至今的各个版本与节日庆典。图片取自官方发布图集：表情图 120×120 PNG（「唐人街影话」另含 400×400 GIF 动图）。",
+  "author": "gangyuyu（整理）",
+  "homepage": "https://github.com/gangyuyu/-1999-g",
+  "license": "版权归《重返未来：1999》官方（Bluepoch / 深蓝互动）所有，仅限个人学习与交流，禁止商用",
+  "tags": [
+    "重返未来1999",
+    "游戏",
+    "官方",
+    "表情包",
+    "二次元"
+  ],
+  "icon": "previews/表情包-奇妙9堡.jpg",
+  "previews": [
+    "previews/表情包-奇妙9堡.jpg",
+    "previews/表情包-绿松石蛇.jpg",
+    "previews/表情包-不老春.jpg",
+    "previews/表情包-世纪尺度.jpg",
+    "previews/表情包-箱中缝缝补.jpg",
+    "previews/表情包-落雪前夜.jpg",
+    "previews/表情包-敲响心灵.jpg",
+    "previews/表情包-三仙过海.jpg"
+  ],
+  "source": {
+    "type": "github",
+    "repo": "gangyuyu/-1999-g",
+    "ref": "main",
+    "subpath": "官方表情包"
+  },
+  "categories": {
+    "qiaoxiang-xinling": {
+      "description": "第 01 系列「敲响心灵」（2023 年，8 张）：公测上线初期推出的首个官方表情系列。用于日常聊天中的表情回应。"
+    },
+    "gongce-shangxian": {
+      "description": "第 02 系列「公测上线」（2023 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "molupangka": {
+      "description": "第 03 系列「摩卢旁卡」（2023 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "dongxue-qiutu": {
+      "description": "第 04 系列「洞穴囚徒」（2023 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "yilu-fafafa": {
+      "description": "第 05 系列「一路发发发」（2023 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "wululu": {
+      "description": "第 06 系列「乌卢鲁」（2023 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "shuori-shouji": {
+      "description": "第 07 系列「朔日手记」（2024 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "chunjie-hesui": {
+      "description": "第 08 系列「春节贺岁」（2024 年，8 张）：春节贺岁主题。用于日常聊天中的表情回应。"
+    },
+    "xingguang-canlan": {
+      "description": "第 09 系列「星光灿烂」（2024 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "laiyashiji": {
+      "description": "第 10 系列「来亚什基」（2024 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "gudu-zhige": {
+      "description": "第 11 系列「孤独之歌」（2024 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "youchang-xiari": {
+      "description": "第 12 系列「悠长夏日」（2024 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "mingri-zhicheng": {
+      "description": "第 13 系列「明日之城」（2024 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "77hao-wangshi": {
+      "description": "第 14 系列「77号往事」（2024 年，16 张）：2.1 版本「77号往事」纪念。用于日常聊天中的表情回应。"
+    },
+    "youyu-redai": {
+      "description": "第 15 系列「忧郁热带」（2024 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "dongqu-liming": {
+      "description": "第 16 系列「东区黎明」（2024 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "xiangzhong-yundonghui": {
+      "description": "第 17 系列「箱中运动会」（2024 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "tuzhong-liuying": {
+      "description": "第 18 系列「途中留影」（2024 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "diqiu-zhongye": {
+      "description": "第 19 系列「地球终夜」（2024 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "luoxue-qianye": {
+      "description": "第 20 系列「落雪前夜」（2024 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "xiying-chunzhi": {
+      "description": "第 21 系列「喜迎春至」（2025 年，8 张）：春节贺岁主题。用于日常聊天中的表情回应。"
+    },
+    "tangrenjie-yinghua": {
+      "description": "第 22 系列「唐人街影话」（2025 年，32 张）：2.5 版本「唐人街影话」纪念（含 16 组 GIF 动图及对应 PNG）。用于日常聊天中的表情回应。"
+    },
+    "wan1999-xianglipu-rensheng": {
+      "description": "第 23 系列「玩1999享厘普人生」（2025 年，16 张）：与「暹罗厘普」联动系列。用于日常聊天中的表情回应。"
+    },
+    "fengdian-wenming": {
+      "description": "第 24 系列「疯癫文明」（2025 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "yuzhou-zuqu": {
+      "description": "第 25 系列「宇宙组曲」（2025 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "fuleyuan": {
+      "description": "第 26 系列「复乐园」（2025 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "xiangzhong-xuejing": {
+      "description": "第 27 系列「箱中雪景」（2025 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "xiangzhong-jiamian": {
+      "description": "第 28 系列「箱中假面」（2025 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "manman-changlu": {
+      "description": "第 29 系列「漫漫长路」（2025 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "xiangzhong-manyou": {
+      "description": "第 30 系列「箱中漫游」（2025 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "xinyang-zhiyue": {
+      "description": "第 31 系列「信仰之跃」（2025 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "changye-mingdi": {
+      "description": "第 32 系列「长夜鸣笛」（2025 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "qianliu-de-shengyan": {
+      "description": "第 33 系列「迁流的盛宴」（2025 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "jieyuda-de-yansi": {
+      "description": "第 34 系列「解与答的研思」（2025 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "xiangzhong-qiyu": {
+      "description": "第 35 系列「箱中栖语」（2025 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "yuanzhengji": {
+      "description": "第 36 系列「远征记」（2025 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "sanxian-guohai": {
+      "description": "第 37 系列「三仙过海」（2026 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "bulaochun": {
+      "description": "第 38 系列「不老春」（2026 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "xiangzhong-suinnuan": {
+      "description": "第 39 系列「箱中岁暖」（2026 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "lvsongshi-she": {
+      "description": "第 40 系列「绿松石蛇」（2026 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "renmen-hequ": {
+      "description": "第 41 系列「人们何去」（2026 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "xiangzhong-douqu": {
+      "description": "第 42 系列「箱中逗趣」（2026 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "xiangzhong-dianyingjie": {
+      "description": "第 43 系列「箱中电影节」（2026 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "tazhe-beiai": {
+      "description": "第 44 系列「他者悲哀」（2026 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "ciyuan-qilv": {
+      "description": "第 45 系列「次元奇旅」（2026 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "shiji-chidu": {
+      "description": "第 46 系列「世纪尺度」（2026 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "xiangzhong-fengfengbu": {
+      "description": "第 47 系列「箱中缝缝补」（2026 年，32 张）：两弹合并，共 32 张。用于日常聊天中的表情回应。"
+    },
+    "juhe-langchao": {
+      "description": "第 48 系列「聚合浪潮」（2026 年，8 张）。用于日常聊天中的表情回应。"
+    },
+    "duicebu": {
+      "description": "第 49 系列「对策部」（2026 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "liujin-zhihai": {
+      "description": "第 50 系列「流金之海」（2026 年，16 张）。用于日常聊天中的表情回应。"
+    },
+    "qimiao-9bao": {
+      "description": "第 51 系列「奇妙9堡」（2026 年，16 张）：最新系列。用于日常聊天中的表情回应。"
+    }
+  }
+}
